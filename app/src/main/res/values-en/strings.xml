@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Idiomes i Temes</string>
+    <string name="Titol">The colors</string>
+    <string name="Negre">Black</string>
+    <string name="Vermell">Red</string>
+    <string name="Taronja">Orange</string>
+    <string name="Verd">Green</string>
+    <string name="Blau">Blue</string>
+    <string name="Fucsia">Fuchsia</string>
+    <string name="Plata">Silver</string>
+    <string name="Gris">Gray</string>
+    <string name="Marró">Brown</string>
+    <string name="Groc">Yellow</string>
+    <string name="Oliva">Olive</string>
+    <string name="Llima">Lime</string>
+</resources>
