@@ -14,4 +14,5 @@
     <string name="Groc">Amarillo</string>
     <string name="Llima">Lima</string>
     <string name="Verd">Verde</string>
+    <string name="TitolLayout">Colores multiidioma</string>
 </resources>
